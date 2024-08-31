@@ -35,7 +35,7 @@
     "react-helmet-async": "^1.2.2",
     "react-hook-form": "^7.24.0",
     "react-redux": "^7.2.6",
-    "react-resizable": "^3.0.4",
+    "react-resizable": "^3.0.5",
     "react-router-dom": "^6.2.1",
     "react-scripts": "5.0.0",
     "redux-persist": "^6.0.0",
