@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  web:
+    image: rechain-aastats-frontend-image
+    container_name: rechain-aastats-frontend-container
+    build:
+      context: .
+    restart: always
+    ports:
+      - 80:80
+      - 443:443
