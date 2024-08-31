@@ -1,0 +1,2 @@
+# Autonomous-Agent-AA-Statistics-Website-on-the-REChain-Blockchain-Network
+Autonomous Agents (AAs) in the REChain Blockchain are self-governing entities that execute tasks, make decisions, and interact with other agents or blockchain components based on predefined smart contracts or rules. These agents are crucial for automating processes, enhancing network efficiency and supporting the decentralized nature of the REChain
