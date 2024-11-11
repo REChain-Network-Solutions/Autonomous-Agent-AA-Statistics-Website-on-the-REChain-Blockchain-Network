@@ -70,7 +70,7 @@
   "devDependencies": {
     "@storybook/addon-actions": "^8.4.1",
     "@storybook/addon-essentials": "^8.2.9",
-    "@storybook/addon-interactions": "^8.3.6",
+    "@storybook/addon-interactions": "^8.4.2",
     "@storybook/addon-links": "^8.3.6",
     "@storybook/builder-webpack5": "^8.3.5",
     "@storybook/manager-webpack5": "^6.5.16",
