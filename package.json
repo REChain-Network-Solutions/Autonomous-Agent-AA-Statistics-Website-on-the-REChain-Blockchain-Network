@@ -84,7 +84,7 @@
     "@types/redux-mock-store": "^1.0.6",
     "@types/uuid": "^10.0.0",
     "@typescript-eslint/eslint-plugin": "^8.5.0",
-    "@typescript-eslint/parser": "^8.13.0",
+    "@typescript-eslint/parser": "^8.15.0",
     "dotenv-cli": "^7.4.2",
     "eslint": "^9.14.0",
     "eslint-config-airbnb": "^19.0.4",
