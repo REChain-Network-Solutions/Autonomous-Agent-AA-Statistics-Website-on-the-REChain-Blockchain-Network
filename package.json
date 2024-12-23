@@ -71,7 +71,7 @@
     "@storybook/addon-actions": "^8.4.7",
     "@storybook/addon-essentials": "^8.2.9",
     "@storybook/addon-interactions": "^8.4.6",
-    "@storybook/addon-links": "^8.3.6",
+    "@storybook/addon-links": "^8.4.7",
     "@storybook/builder-webpack5": "^8.3.5",
     "@storybook/manager-webpack5": "^6.5.16",
     "@storybook/node-logger": "^8.3.6",
