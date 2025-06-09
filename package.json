@@ -88,7 +88,7 @@
     "dotenv-cli": "^8.0.0",
     "eslint": "^9.25.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^10.0.1",
+    "eslint-config-prettier": "^10.1.5",
     "eslint-import-resolver-typescript": "^4.3.4",
     "eslint-plugin-import": "^2.30.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
