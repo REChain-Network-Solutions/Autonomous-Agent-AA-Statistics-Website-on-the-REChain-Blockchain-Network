@@ -28,7 +28,7 @@
     "obyte": "^0.1.23",
     "obyte-http-client": "^0.0.2",
     "ramda": "^0.31.3",
-    "react": "^19.1.0",
+    "react": "^19.1.1",
     "react-dom": "^19.1.0",
     "react-ga4": "^2.1.0",
     "react-grid-layout": "^1.5.1",
