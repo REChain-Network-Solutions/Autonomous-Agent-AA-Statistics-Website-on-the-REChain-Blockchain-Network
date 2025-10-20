@@ -27,7 +27,7 @@
     "html-to-image": "^1.11.13",
     "obyte": "^0.1.24",
     "obyte-http-client": "^0.0.2",
-    "ramda": "^0.31.3",
+    "ramda": "^0.32.0",
     "react": "^19.2.0",
     "react-dom": "^19.1.1",
     "react-ga4": "^2.1.0",
