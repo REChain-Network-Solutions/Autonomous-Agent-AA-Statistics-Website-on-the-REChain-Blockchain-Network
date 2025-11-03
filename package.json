@@ -95,7 +95,7 @@
     "eslint-plugin-prettier": "^5.5.4",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "eslint-plugin-storybook": "^9.1.10",
+    "eslint-plugin-storybook": "^10.0.2",
     "prettier": "^3.6.2",
     "webpack": "^5.102.1"
   },
